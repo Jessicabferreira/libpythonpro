@@ -7,7 +7,7 @@ Link para o curso [Python Pro](https://pythonpro.com.br/)
 
 [![Build Status](https://app.travis-ci.com/Jessicabferreira/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Jessicabferreira/libpythonpro)
 
-Suportada versão 3 de Python
+Suportada a versão 3 de Python
 
 Para instalar:
 
