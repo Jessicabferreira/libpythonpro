@@ -17,7 +17,7 @@ python3 -m venv .venv
 pip install -r requirements-dev.txt
 ```
 
-Para conferir qualidade d código:
+Para conferir qualidade do código:
 
 ```console
 flake8
