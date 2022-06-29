@@ -110,7 +110,7 @@ setup(
     version=VERSION,
     description=DESCRIPTION,
     long_description=read('README.md'),
-    long_description_content_type='text/markdon',
+    long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=read('LICENSE'),
@@ -127,7 +127,7 @@ setup(
         "Framework :: Pytest",
     ],
     install_requires=[
-        'requests>=2.28.0'
+        'requests'
     ],
     zip_safe=False,
 )
